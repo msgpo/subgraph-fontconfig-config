@@ -1,3 +1,9 @@
+subgraph-fontconfig-config (1.0.1-1) unstable; urgency=medium
+
+  * Renamed 10-hinting-slight.conf. 
+
+ -- David McKinney <mckinney@subgraph.com>  Mon, 10 Jul 2017 18:26:04 +0000
+
 subgraph-fontconfig-config (1.0.0-1) unstable; urgency=medium
 
   * Initial release. 
